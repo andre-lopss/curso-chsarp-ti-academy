@@ -1,0 +1,7 @@
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO1\ExercisesPOO1\obj\Debug\ExercisesPOO1.csprojAssemblyReference.cache
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO1\ExercisesPOO1\obj\Debug\ExercisesPOO1.csproj.CoreCompileInputs.cache
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO1\ExercisesPOO1\bin\Debug\ExercisesPOO1.exe.config
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO1\ExercisesPOO1\bin\Debug\ExercisesPOO1.exe
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO1\ExercisesPOO1\bin\Debug\ExercisesPOO1.pdb
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO1\ExercisesPOO1\obj\Debug\ExercisesPOO1.exe
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO1\ExercisesPOO1\obj\Debug\ExercisesPOO1.pdb

@@ -1,0 +1,6 @@
+C:\Users\andre.lopes\source\repos\Aula05\Aula05\obj\Debug\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\andre.lopes\source\repos\Aula05\Aula05\bin\Debug\Aula05.exe.config
+C:\Users\andre.lopes\source\repos\Aula05\Aula05\bin\Debug\Aula05.exe
+C:\Users\andre.lopes\source\repos\Aula05\Aula05\bin\Debug\Aula05.pdb
+C:\Users\andre.lopes\source\repos\Aula05\Aula05\obj\Debug\Aula05.exe
+C:\Users\andre.lopes\source\repos\Aula05\Aula05\obj\Debug\Aula05.pdb

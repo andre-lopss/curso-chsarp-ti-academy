@@ -1,0 +1,7 @@
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\CheckPoints\Aula04\Aula03\bin\Debug\Aula03.exe.config
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\CheckPoints\Aula04\Aula03\bin\Debug\Aula03.exe
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\CheckPoints\Aula04\Aula03\bin\Debug\Aula03.pdb
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\CheckPoints\Aula04\Aula03\obj\Debug\Aula04.csprojAssemblyReference.cache
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\CheckPoints\Aula04\Aula03\obj\Debug\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\CheckPoints\Aula04\Aula03\obj\Debug\Aula03.exe
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\CheckPoints\Aula04\Aula03\obj\Debug\Aula03.pdb
