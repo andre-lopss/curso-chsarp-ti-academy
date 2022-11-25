@@ -5,3 +5,10 @@ C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO2\ExercisesPOO2\ob
 C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.csproj.CoreCompileInputs.cache
 C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.exe
 C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.pdb
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\bin\Debug\ExercisesPOO2.exe.config
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\bin\Debug\ExercisesPOO2.exe
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\bin\Debug\ExercisesPOO2.pdb
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.csprojAssemblyReference.cache
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.csproj.CoreCompileInputs.cache
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.exe
+C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.pdb

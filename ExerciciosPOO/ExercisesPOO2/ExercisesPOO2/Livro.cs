@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ExercisesPOO2
 {
@@ -18,10 +19,8 @@ namespace ExercisesPOO2
             Console.Write("Nome do Livro: ");
             Console.WriteLine(NomeLivro);
             Console.WriteLine("Autores: ");
-            int i;
-            for (i = 0; i < autoresLivro.Length; i++)
-            {
-                Console.WriteLine(autoresLivro[i]);
+            foreach(Autor autor in autoresLivro){ 
+                Console.WriteLine(autor);
             }
             return " ";             
         }
