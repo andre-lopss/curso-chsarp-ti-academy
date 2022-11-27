@@ -5,8 +5,8 @@ namespace ExercisesPOO2
 {
     class Livro
     {
-        public String NomeLivro { get; set; }
-        public List<Autor> Autores = new List<Autor>();
+        private string NomeLivro { get; set; }
+        private List<Autor> Autores = new List<Autor>();
 
         public Livro(string nomeLivro, List<Autor> autores)
         {
