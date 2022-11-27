@@ -12,3 +12,11 @@ C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\Ex
 C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.csproj.CoreCompileInputs.cache
 C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.exe
 C:\Users\andre.lopes\source\repos\CsharpTiAcademy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.pdb
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\bin\Debug\ExercisesPOO2.exe.config
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\bin\Debug\ExercisesPOO2.exe
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\bin\Debug\ExercisesPOO2.pdb
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.exe
+C:\Users\andre\source\repos\curso-chsarp-ti-academy\ExerciciosPOO\ExercisesPOO2\ExercisesPOO2\obj\Debug\ExercisesPOO2.pdb
