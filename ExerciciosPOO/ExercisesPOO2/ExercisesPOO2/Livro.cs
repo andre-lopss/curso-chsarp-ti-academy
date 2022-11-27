@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using System.Collections.Generic;
 
 namespace ExercisesPOO2
@@ -16,13 +17,13 @@ namespace ExercisesPOO2
 
         public override string ToString()
         {
-            Console.Write("Nome do Livro: ");
-            Console.WriteLine(NomeLivro);
-            Console.WriteLine("Autores: ");
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Nome do livro: " + NomeLivro);
+            sb.AppendLine("Autores: ");
             foreach(Autor autor in Autores){ 
-                Console.WriteLine(autor);
+                sb.AppendLine(autor.ToString());
             }
-            return " ";             
+            return sb.ToString() ;             
         }
     }
 }    
